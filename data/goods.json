@@ -1,0 +1,10 @@
+[
+    {
+        "id":1,
+        "image":"../image/list_goods1.jpg",
+        "title":"Redmi K30 至尊纪念版",
+        "disc":"120Hz弹出全面屏，天玑1000+旗舰处理器,索尼6400万四摄",
+        "price":1999,
+        "deadline":5
+    }
+]

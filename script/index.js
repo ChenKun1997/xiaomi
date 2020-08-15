@@ -19,8 +19,8 @@ var product = document.querySelector(".product_wrap");
 
 for(let i = 0, len = phones.length; i < len; i++){
     phones[i].onmouseenter = function(){
-        product.style.display = 'block';
-        // $(product).slideDown();
+        // product.style.display = 'block';
+        $(product).slideDown();
     }
 }
 for(let i = 0, len = phones.length; i < len; i++){
