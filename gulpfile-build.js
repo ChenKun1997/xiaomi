@@ -46,6 +46,13 @@ task('html', async ()=>{
   .pipe(dest('./dist/pages'))
 })
 
+// 处理json
+task('json', async ()=>{
+  src('./data/*.json')
+  .pipe(dest('./dist/data'))
+  .pipe(load.connect.reload())
+})
+
 // 监听文件变化
 // task('watch',async ()=>{
 //   watch('./image/*.*',series('image'));
@@ -64,4 +71,4 @@ task('connect',async ()=>{
 })
 
 // 构建生产包
-task('build',series('delDist','image','sass','script','html','connect'))
+task('build',series('delDist','image','sass','script','html','json','connect'))
