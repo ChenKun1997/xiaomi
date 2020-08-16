@@ -247,7 +247,7 @@ function offset(dom,bool){
     
 }
 
-// 获取url中的某个参数值
+// 获取url中的某个参数值http://127.0.0.1:5500/pages/detail.html?id=0&name=xiaoming#hash
 function getQueryString(key){
     var url = location.href;
     var searchStr = url.split('?')[1];

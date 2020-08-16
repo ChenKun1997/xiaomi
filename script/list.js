@@ -29,4 +29,55 @@ for(let i = 0, len = phones.length; i < len; i++){
     }
 }
 
-//鼠标进入全部商品，弹出全部商品分类
+
+//请求数据,渲染列表页的商品
+let list_goods = $('.list_goods')
+$.ajax({
+    url:"../data/goods.json",
+    type:'get',
+    dataType:'json',
+    cache:false,
+    success:function(jsonArr){
+        if(jsonArr.length <= 0){
+            return;
+        }else{
+            jsonArr.forEach((item,index)=>{
+                if(index === 0){
+                    list_goods.append(
+                        `<div class="max section">
+                            <div class="image">
+                                <a href="./detail.html?id=0" target="_blank"><img src="${item.list_image}" alt=""></a>
+                            </div>
+                            <div class="content">
+                                <div class="con">
+                                    <h3 class="title"><a href="./detail.html?id=0" target="_blank">${item.title}</a></h3>
+                                    <p class="short_disc">${item.short_disc}</p>
+                                    <p class="price">
+                                        ${item.price}<span>元起</span>
+                                    </p>
+                                    <em>立即预约</em>
+                                </div>
+                            </div>
+                        </div>`)
+                }else{
+                    list_goods.append(
+                        `<div class="min section">
+                        <div class="image">
+                            <a href="./detail.html?id=${index}" target="_blank"><img src="${item.list_image}" alt=""></a>
+                        </div>
+                        <div class="content">
+                            <div class="con">
+                                <h3 class="title"><a href="./detail.html?id=${index}" target="_blank">${item.title}</a></h3>
+                                <p class="short_disc">${item.short_disc}</p>
+                                <p class="price">
+                                ${item.price} <span>元起</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>`
+                    )
+                }
+            })
+        }
+    }
+})

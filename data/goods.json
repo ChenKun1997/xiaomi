@@ -1,10 +1,755 @@
 [
     {
-        "id":1,
-        "image":"../image/list_goods1.jpg",
+        "id":0,
         "title":"Redmi K30 至尊纪念版",
-        "disc":"120Hz弹出全面屏，天玑1000+旗舰处理器,索尼6400万四摄",
-        "price":1999,
-        "deadline":5
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/40921d66d65484bc7e54187fbbe1615a.jpg?w=1708&h=868",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138318.70214063.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138318.69395214.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138318.6935135.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138318.68736185.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138318.69433590.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.63458975.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.62262557.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.6286387.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.64947838.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138299.6286387.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138340.1852584.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138340.18164214.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138340.17978744.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138340.17165088.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138340.19177613.jpg"
+            ]
+
+        ],
+        "short_disc":"120Hz弹出全面屏，天玑1000+旗舰处理器,索尼6400万四摄",
+        "good_info":"「4GB+64GB到手价仅799元；+1元得50GB云空间月卡」",
+        "long_disc":"120Hz弹出全面屏 / 天玑1000+旗舰处理器 / 索尼6400万四摄 / 立体声双扬声器 / 4500mAh+33W闪充 / 双模5G / 多功能NFC / 线性震动马达 / 红外遥控",
+        "price":2499,
+        "color":[
+            "月幕白",
+            "极夜黑",
+            "薄荷绿"
+        ],
+        "version":[
+            "6GB+128GB",
+            "8GB+128GB",
+            "8GB+512GB"
+        ]
+    },
+    {
+        "id":1,
+        "title":"Redmi 9A",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8dfbe21ef88b8ff2e0b43cb2fb2cbb77.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.45713014.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.46012177.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.44771407.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.45288015.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.45982505.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.07966928.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.0831679.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.08014623.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.07921552.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.08042829.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.04125427.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.0448806.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.03111701.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.04557957.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.03438693.jpg"
+            ]
+
+        ],
+        "short_disc":"15000mAh长循环大电量，6.5''超大护眼屏幕",
+        "good_info":"「+1元得50G云空间月卡」",
+        "long_disc":"5000mAh长循环大电量 / 6.53''超大护眼屏幕 / G25八核处理器 / 大音量扬声器 / 1300万 AI相机 / 人脸解锁 / 最高支持512GB存储扩展",
+        "price":599,
+        "color":[
+            "晴空蓝",
+            "砂石黑",
+            "湖光绿"
+        ],
+        "version":[
+            "4GB+64GB",
+            "2GB+32GB"
+        ]
+    },
+    {
+        "id":2,
+        "title":"Redmi 9",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f72c30ff2570bf5226240c4109e23bd.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817586.03663677.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817586.03891296.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817586.03417574.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817586.0391459.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817586.02758535.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817543.6483614.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817543.6538379.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817543.64522755.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817543.65858985.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817543.6531945.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817487.06381642.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817487.12332421.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817487.06316490.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817487.06272588.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817487.06835456.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817381.81497487.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817423.33677202.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817414.30541430.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817381.87186612.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592817381.81631646.jpg"
+            ]
+
+        ],
+        "short_disc":"5020mAh超长续航，1080P 全高清大屏 ",
+        "good_info":"「4GB+64GB到手价仅799元；+1元得50GB云空间月卡」",
+        "long_disc":"5020mAh超长续航+18W快充 / G80高性能处理器 / 128GB大内存 / 全场景 AI 四摄 / 1080P 全高清大屏 / 6.53''水滴大屏 / 大功率扬声器 / 指纹识别+人脸解锁 / 红外遥控",
+        "price":799,
+        "color":[
+            "藕荷粉",
+            "霓虹蓝",
+            "墨黛青",
+            "碳素黑"
+        ],
+        "version":[
+            "4GB+64GB",
+            "4GB+128GB",
+            "6GB+128GB"
+        ]
+    },
+    {
+        "id":3,
+        "title":"Redmi 10X 4G",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b923d3280682185c0018b0f027b58b8a.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.20712809.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.21491245.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.21527215.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.21411155.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.20177137.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371396.94252195.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371396.95325222.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371397.01512763.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371397.0188962.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371396.94072354.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371189.89315583.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371189.89561922.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371189.90416056.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371189.91444599.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371445.67261063.jpg"
+            ]
+
+        ],
+        "short_disc":"5020mAh超长续航，128GB大内存 ",
+        "good_info":"「4GB+128GB到手价仅999元；享延保碎屏保5折优惠；+1元得50GB云空间月卡」",
+        "long_disc":"5020mAh超长续航+18W快充+最高9W反向充电 /128GB大内存 / 4800万超清四摄 /Helio G85游戏芯 /6.53''小孔全面屏 /指纹识别+人脸解锁 /红外遥控",
+        "price":999,
+        "color":[
+            "天际蓝",
+            "松晨绿",
+            "冰雾白"
+        ],
+        "version":[
+            "4GB+128GB",
+            "6GB+128GB"
+        ]
+    },
+    {
+        "id":4,
+        "title":"Redmi K30 Pro",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bf6244caaebbcd43b4f541fc32ff3810.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.68224444.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.68714301.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.68555023.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.67429792.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.67397192.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.15325204.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.16048616.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.24078871.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.1485742.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.13737232.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945959.89763789.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945960.00664304.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945959.88698278.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945959.88698278.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945960.0129090.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg"
+            ]
+
+
+        ],
+        "short_disc":"双模5G，骁龙865，弹出全面屏  ",
+        "good_info":"「8GB+128GB到手价2699元起；购机享信用卡24期分期免息，低至113元起/期；+1元得50GB云空间月卡」",
+        "long_disc":"双模5G / 高通骁龙865 / 弹出式超光感全面屏 /索尼 6400万高清四摄 / 8K视频拍摄 / 超大面积VC立体散热 / 4700mAh+33W疾速闪充 / 多功能NFC / 红外遥控",
+        "price":2699,
+        "color":[
+            "水色天光",
+            "太空灰",
+            "天际蓝",
+            "星环紫",
+            "月幕白"
+        ],
+        "version":[
+            "8GB+128GB",
+            "12GB+128GB",
+            "8GB+256GB"
+        ]
+    },
+    {
+        "id":5,
+        "title":"Redmi K30 Pro 变焦版",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8dc70db2efd09bb00c29745aa2ab9173.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562653.46875322.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562653.46875322.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562653.46875322.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562653.46875322.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562653.46875322.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945499.90421885.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945499.90421885.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945499.90421885.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945499.90421885.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945499.90421885.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945525.32081815.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945525.32081815.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945525.32081815.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945525.32081815.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945525.32081815.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945550.37994682.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945550.37994682.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945550.37994682.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945550.37994682.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945550.37994682.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945587.10189155.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945587.10189155.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945587.10189155.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945587.10189155.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945587.10189155.jpg"
+            ]
+
+
+        ],
+        "short_disc":"双模5G，骁龙865，弹出全面屏  ",
+        "good_info":"「购机享信用卡24期分期免息，低至142元起/期；+1元得50GB云空间月卡」",
+        "long_disc":"双模5G / 高通骁龙865 / 弹出式超光感全面屏 / 索尼6400万双光学防抖四摄 / 8K视频拍摄 / 30倍变焦 / 超大面积VC立体散热 / 4700mAh+33W疾速闪充 / 多功能NFC / 红外遥控",
+        "price":3399,
+        "color":[
+            "水色天光",
+            "月幕白",
+            "星环紫",
+            "天际蓝",
+            "太空灰"
+        ],
+        "version":[
+            "8GB+256GB变焦版"
+        ]
+    },
+    {
+        "id":6,
+        "title":"小米10",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4f3a01fbab162952324826197f9ecd76.jpg",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596073939.78582642.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596073939.80384505.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596073939.78629209.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596073939.89318074.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1596073939.87534286.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494382.43763430.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494372.61732687.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494382.36045479.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494385.93393997.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494379.77789316.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494354.49271949.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494292.17763824.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494297.02124730.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494307.6166776.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494346.38493761.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494270.37472103.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494242.95862101.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494249.30919595.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494255.13953407.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494260.10488526.jpg"
+            ]
+        ],
+        "short_disc":"骁龙865/1亿像素相机   ",
+        "good_info":"「小米10 8GB+128GB 冰海蓝闪降100元，到手价3699元」",
+        "long_disc":"骁龙865处理器 / 1亿像素8K电影相机 / 双模5G / 新一代LPDDR5内存 / 对称式立体声 / 90Hz刷新率+180Hz采样率 / UFS 3.0高速存储 / 全面适配Wi-Fi 6 / 超强VC液冷散热 / 30W极速闪充+30W无线闪充+10W无线反充 / 4780mAh大电量 / 多功能NFC",
+        "price":3999,
+        "color":[
+            "国风雅灰",
+            "钛银黑",
+            "冰海蓝",
+            "蜜桃金"
+        ],
+        "version":[
+            "8GB+128GB",
+            "8GB+256GB",
+            "12GB+256GB"
+        ]
+    },
+    {
+        "id":7,
+        "title":"小米10 Pro",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8e0fb5540c32c703813e21894d104567.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493329.10251213.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493337.56513921.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493347.45562393.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493356.23386064.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493365.27036533.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493274.50817754.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493284.50072469.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493296.93674159.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493304.0159599.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493312.6398004.jpg"
+            ]
+        ],
+        "short_disc":"骁龙865 / 50倍变焦  ",
+        "good_info":"「领券立减200元，赠冰封散热背夹、手机保护套」",
+        "long_disc":"向往的生活同款 / 骁龙865处理器 / 1亿像素8K电影相机，50倍数字变焦，10倍混合光学变焦 / 双模5G / 新一代LPDDR5内存 / 50W极速闪充+30W无线闪充+10W无线反充 / 对称式立体声 / 90Hz刷新率+180Hz采样率 / UFS 3.0高速存储 / 全面适配WiFi 6 / 超强VC液冷散热 / 4500mAh大电量 / 多功能NFC",
+        "price":4999 ,
+        "color":[
+            "星空蓝",
+            "珍珠白"
+        ],
+        "version":[
+            "8GB+256GB",
+            "12GB+256GB",
+            "12GB+512GB"
+        ]
+    },
+    {
+        "id":8,
+        "title":"腾讯黑鲨游戏手机3",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d62a97b5c65e2f62ffd7cafcb6dd3361.jpg",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886337.18973495.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886337.18431820.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886337.18671921.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886337.18936659.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886337.33159347.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.76489338.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.7619610.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.81687473.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.76961586.jpg   ",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.76647039.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886438.24032679.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886438.35643439.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886438.22927495.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886438.23763269.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886438.24128779.jpg"
+            ]
+        ],
+        "short_disc":"骁龙865 / 270Hz触控采样率  ",
+        "good_info":"「黑鲨3全版本闪降200元，赠价值179元冰封散热背夹Pro，加1元得50GB云空间月卡，享花呗12期免息」",
+        "long_disc":"骁龙865处理器 / 双模5G / 腾讯Solar Core游戏引擎 / 270Hz触控采样率+90Hz屏幕刷新率 / 最高65W极速闪充+背部磁吸充电 / 4720mAh大容量双电池 / UFS3.0闪存 / “三明治”液冷散热 / 屏幕压感3.0 / 游戏语音操控",
+        "price":3599 ,
+        "color":[
+            "闪电黑",
+            "铠甲灰",
+            "星辰银"
+        ],
+        "version":[
+            "8GB+128GB",
+            "12GB+128GB",
+            "12GB+256GB"
+        ]
+    },
+    {
+        "id":9,
+        "title":"腾讯黑鲨游戏手机3 Pro",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/89a7f5ab007583a2cbd8fd759f2262ea.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886131.06763030.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886134.48185451.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886137.44821819.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886141.2377716.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886143.91744644.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886110.04533476.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886112.42337904.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886115.16342161.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.76961586.jpg   ",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886118.33763065.jpg"
+            ]
+        ],
+        "short_disc":"骁龙865 / 升降式按键  ",
+        "good_info":"「购机赠腾讯游戏大礼包、5G定制电话卡，加1元得50GB云空间月卡」",
+        "long_disc":"骁龙865处理器 / 双模5G+WiFi6 / 升降式机械游戏按键 / 2K+超清分辨率 / 腾讯Solar Core游戏引擎 / 270Hz触控采样率+90Hz屏幕刷新率 / 最高65W极速闪充+背部磁吸充电 / 5000mAh大容量双电池 / UFS3.0闪存+LPDDR5 / “三明治”液冷散热 / 屏幕压感3.0 / 游戏语音操控",
+        "price":4699  ,
+        "color":[
+            "幻影黑",
+            "铠甲灰"
+        ],
+        "version":[
+            "8GB+256GB",
+            "12GB+256GB",
+            "12GB+256GB 中国选手定制版",
+            "12GB+512GB"
+        ]
+    },
+    {
+        "id":10,
+        "title":"Redmi Note 8",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/465ea7594d174311d85ba9b58b4c7137.jpg",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886131.06763030.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886134.48185451.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886137.44821819.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886141.2377716.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886143.91744644.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886110.04533476.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886112.42337904.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886115.16342161.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.76961586.jpg   ",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886118.33763065.jpg"
+            ]
+        ],
+        "short_disc":"骁龙865 / 升降式按键  ",
+        "good_info":"「购机赠腾讯游戏大礼包、5G定制电话卡，加1元得50GB云空间月卡」",
+        "long_disc":"骁龙865处理器 / 双模5G+WiFi6 / 升降式机械游戏按键 / 2K+超清分辨率 / 腾讯Solar Core游戏引擎 / 270Hz触控采样率+90Hz屏幕刷新率 / 最高65W极速闪充+背部磁吸充电 / 5000mAh大容量双电池 / UFS3.0闪存+LPDDR5 / “三明治”液冷散热 / 屏幕压感3.0 / 游戏语音操控",
+        "price":4699  ,
+        "color":[
+            "幻影黑",
+            "铠甲灰"
+        ],
+        "version":[
+            "8GB+256GB",
+            "12GB+256GB",
+            "12GB+256GB 中国选手定制版",
+            "12GB+512GB"
+        ]
+    },
+    {
+        "id":11,
+        "title":"Redmi K30i 5G 8G+128GB",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6bacc8d336d2c45c080a42aac213e28e.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592984519.5559061.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592984519.55222948.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592984519.54367304.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592984519.53589897.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592984519.54955234.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914473.27083495.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914473.27429574.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914473.26778595.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914473.25624060.jpg ",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914473.26161552.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914422.75877684.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914422.7592316.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914422.75791717.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914422.74797386.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914422.7568241.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914487.66348406.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914487.66762741.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914487.66897810.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914487.66589701.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1592914487.66659942.jpg"
+            ]
+        ],
+        "short_disc":"双模5G，120Hz流速屏 ",
+        "good_info":"「8GB+128GB到手价仅1799元；+1元得50GB云空间月卡；+39元得黑鲨游戏手柄套装」",
+        "long_disc":"双模5G / 三路并发 / 高通骁龙765G / 7nm 5G低功耗处理器 / 120Hz高帧率流速屏 / 6.67''小孔径全面屏 / 4800万前后六摄 / 4500mAh+30W快充 / 3D四曲面玻璃机身 / 多功能NFC",
+        "price":1799,
+        "color":[
+            "薄荷冰蓝",
+            "时光独白",
+            "紫玉幻境",
+            "深海微光"
+        ],
+        "version":[
+            "128GB"
+        ]
+    
+    },
+    {
+        "id":12,
+        "title":"Redmi 9A",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8dfbe21ef88b8ff2e0b43cb2fb2cbb77.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.45713014.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.46012177.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.44771407.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.45288015.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400910.45982505.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.07966928.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.0831679.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.08014623.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.07921552.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.08042829.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.04125427.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.0448806.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.03111701.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.04557957.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400926.03438693.jpg"
+            ]
+
+        ],
+        "short_disc":"15000mAh长循环大电量，6.5''超大护眼屏幕",
+        "good_info":"「+1元得50G云空间月卡」",
+        "long_disc":"5000mAh长循环大电量 / 6.53''超大护眼屏幕 / G25八核处理器 / 大音量扬声器 / 1300万 AI相机 / 人脸解锁 / 最高支持512GB存储扩展",
+        "price":599,
+        "color":[
+            "晴空蓝",
+            "砂石黑",
+            "湖光绿"
+        ],
+        "version":[
+            "4GB+64GB",
+            "2GB+32GB"
+        ]
+    },
+    {
+        "id":13,
+        "title":"Redmi 10X 4G",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b923d3280682185c0018b0f027b58b8a.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.20712809.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.21491245.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.21527215.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.21411155.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371358.20177137.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371396.94252195.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371396.95325222.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371397.01512763.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371397.0188962.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371396.94072354.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371189.89315583.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371189.89561922.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371189.90416056.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371189.91444599.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590371445.67261063.jpg"
+            ]
+
+        ],
+        "short_disc":"5020mAh超长续航，128GB大内存 ",
+        "good_info":"「4GB+128GB到手价仅999元；享延保碎屏保5折优惠；+1元得50GB云空间月卡」",
+        "long_disc":"5020mAh超长续航+18W快充+最高9W反向充电 /128GB大内存 / 4800万超清四摄 /Helio G85游戏芯 /6.53''小孔全面屏 /指纹识别+人脸解锁 /红外遥控",
+        "price":999,
+        "color":[
+            "天际蓝",
+            "松晨绿",
+            "冰雾白"
+        ],
+        "version":[
+            "4GB+128GB",
+            "6GB+128GB"
+        ]
+    },
+    {
+        "id":14,
+        "title":"Redmi K30 Pro",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/bf6244caaebbcd43b4f541fc32ff3810.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.68224444.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.68714301.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.68555023.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.67429792.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595562519.67397192.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.15325204.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.16048616.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.24078871.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.1485742.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946022.13737232.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945959.89763789.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945960.00664304.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945959.88698278.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945959.88698278.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945960.0129090.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584945982.1287721.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584946003.28892979.jpg"
+            ]
+        ],
+        "short_disc":"双模5G，骁龙865，弹出全面屏  ",
+        "good_info":"「8GB+128GB到手价2699元起；购机享信用卡24期分期免息，低至113元起/期；+1元得50GB云空间月卡」",
+        "long_disc":"双模5G / 高通骁龙865 / 弹出式超光感全面屏 /索尼 6400万高清四摄 / 8K视频拍摄 / 超大面积VC立体散热 / 4700mAh+33W疾速闪充 / 多功能NFC / 红外遥控",
+        "price":2699,
+        "color":[
+            "水色天光",
+            "太空灰",
+            "天际蓝",
+            "星环紫",
+            "月幕白"
+        ],
+        "version":[
+            "8GB+128GB",
+            "12GB+128GB",
+            "8GB+256GB"
+        ]
+    },
+    {
+        "id":15,
+        "title":"腾讯黑鲨游戏手机3 Pro",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/89a7f5ab007583a2cbd8fd759f2262ea.jpg?w=1212&h=716",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886131.06763030.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886134.48185451.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886137.44821819.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886141.2377716.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886143.91744644.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886110.04533476.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886112.42337904.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886115.16342161.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.76961586.jpg   ",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886118.33763065.jpg"
+            ]
+        ],
+        "short_disc":"骁龙865 / 升降式按键  ",
+        "good_info":"「购机赠腾讯游戏大礼包、5G定制电话卡，加1元得50GB云空间月卡」",
+        "long_disc":"骁龙865处理器 / 双模5G+WiFi6 / 升降式机械游戏按键 / 2K+超清分辨率 / 腾讯Solar Core游戏引擎 / 270Hz触控采样率+90Hz屏幕刷新率 / 最高65W极速闪充+背部磁吸充电 / 5000mAh大容量双电池 / UFS3.0闪存+LPDDR5 / “三明治”液冷散热 / 屏幕压感3.0 / 游戏语音操控",
+        "price":4699  ,
+        "color":[
+            "幻影黑",
+            "铠甲灰"
+        ],
+        "version":[
+            "8GB+256GB",
+            "12GB+256GB",
+            "12GB+256GB 中国选手定制版",
+            "12GB+512GB"
+        ]
+    },
+    {
+        "id":16,
+        "title":"Redmi Note 8",
+        "list_image":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/465ea7594d174311d85ba9b58b4c7137.jpg",
+        "detail_image":[
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886131.06763030.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886134.48185451.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886137.44821819.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886141.2377716.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886143.91744644.jpg"
+            ],
+            [
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886110.04533476.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886112.42337904.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886115.16342161.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886385.76961586.jpg   ",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1582886118.33763065.jpg"
+            ]
+        ],
+        "short_disc":"骁龙865 / 升降式按键  ",
+        "good_info":"「购机赠腾讯游戏大礼包、5G定制电话卡，加1元得50GB云空间月卡」",
+        "long_disc":"骁龙865处理器 / 双模5G+WiFi6 / 升降式机械游戏按键 / 2K+超清分辨率 / 腾讯Solar Core游戏引擎 / 270Hz触控采样率+90Hz屏幕刷新率 / 最高65W极速闪充+背部磁吸充电 / 5000mAh大容量双电池 / UFS3.0闪存+LPDDR5 / “三明治”液冷散热 / 屏幕压感3.0 / 游戏语音操控",
+        "price":4699  ,
+        "color":[
+            "幻影黑",
+            "铠甲灰"
+        ],
+        "version":[
+            "8GB+256GB",
+            "12GB+256GB",
+            "12GB+256GB 中国选手定制版",
+            "12GB+512GB"
+        ]
     }
 ]
