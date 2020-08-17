@@ -26,5 +26,8 @@
     "gulp-sass": "^4.1.0",
     "gulp-sass-china": "^3.1.0",
     "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
