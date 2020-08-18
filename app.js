@@ -1,9 +1,11 @@
 let userData = {};//空对象用于存放用户数据
-const express = require('express')
-const app = express()
-app.use(express.static('./dist/'))
+const express = require('express');
+const app = express();
+// app.use(express.static('./dist/'));
+app.use(express.static('../GULP-CLI'));
 
-app.get('/', (req, res) => res.send('Hello World!'))
+
+app.get('/', (req, res) => res.send('Hello World!'));
 
 app.get('/register',(req,res)=>{
   let account = req.query.account;

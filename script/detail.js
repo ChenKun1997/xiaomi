@@ -112,7 +112,8 @@ var mySwiper = new Swiper ('.swiper-container', {
 
 
 version.on('click','li',function(){
-    
+    $(this).addClass('active');
+    $(this).siblings().removeClass('active');
 })
 
 color.on('click','li',function(){

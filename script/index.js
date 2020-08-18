@@ -143,7 +143,7 @@ hide();
 var carousel = document.querySelector(".carousel");
 var to_left = document.querySelector(".fSale .to_left");
 var to_right = document.querySelector(".fSale .to_right");
-var fSale_lis = document.querySelectorAll(".con li");
+var fSale_lis = document.querySelectorAll(".carousel .con li");
 var f_index = 0;
 
 to_right.onclick = function(){

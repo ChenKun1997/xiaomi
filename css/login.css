@@ -23,12 +23,10 @@
   z-index: 99;
   background-color: #fff;
   width: 410px;
-  min-width: 410px;
-  max-width: 854px;
   height: 559px;
   position: absolute;
   top: 30px;
-  margin-left: 835px;
+  margin-left: 62%;
 }
 
 .main .login_box .login_head {
