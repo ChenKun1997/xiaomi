@@ -267,7 +267,7 @@
 }
 
 .main .swiper-container {
-  width: 560px;
+  width: 606px;
   height: 560px;
   float: left;
   margin: 0;
@@ -431,7 +431,7 @@
   height: 27px;
   font-size: 18px;
   color: #333;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .main .info .color {
@@ -463,6 +463,239 @@
 .main .info .color .active {
   border: 1px solid #ff6700;
   color: #ff6700;
+}
+
+.insurance {
+  width: 1226px;
+  height: 1500px;
+  margin: 0 auto;
+}
+
+.insurance .left {
+  width: 606px;
+  height: 1500px;
+  float: left;
+}
+
+.insurance .right {
+  float: right;
+  margin-left: 20px;
+  width: 600px;
+  height: 1500px;
+}
+
+.insurance .right .protect {
+  width: 600px;
+  height: 327px;
+}
+
+.insurance .right .protect h3 {
+  margin-top: 20px;
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: normal;
+  color: #333;
+  height: 18px;
+  width: 600px;
+}
+
+.insurance .right .protect h3 a {
+  color: #ff6700;
+  font-size: 14px;
+  float: right;
+}
+
+.insurance .right .protect .pro1 {
+  margin-top: 14px;
+  width: 598px;
+  height: 86px;
+  border: 1px solid #e0e0e0;
+  padding: 30px 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.insurance .right .protect .pro1 i {
+  font-size: 8px;
+  border: 1px solid #e0e0e0;
+  width: 14px;
+  height: 14px;
+  text-align: center;
+  line-height: 14px;
+  opacity: 1;
+  color: white;
+  border-radius: 50%;
+  background-color: #ff6700;
+  margin-left: 30px;
+}
+
+.insurance .right .protect .pro1 img {
+  width: 50px;
+  height: 50px;
+  margin: 0 15px 0 10px;
+}
+
+.insurance .right .protect .pro1 .box {
+  height: 86px;
+  width: 400px;
+  margin-top: -30px;
+}
+
+.insurance .right .protect .pro1 .box h3 {
+  display: block;
+  font-size: 18px;
+  width: 457px;
+  height: 28px;
+  line-height: 28px;
+  margin: 0 0 10px 0s;
+  font-weight: bold;
+}
+
+.insurance .right .protect .pro1 .box h3 span {
+  width: 50px;
+  height: 25px;
+  background-color: #fa6700;
+  border-radius: 20px;
+  font-size: 14px;
+  color: white;
+  padding: 2px 6px;
+}
+
+.insurance .right .protect .pro1 .box em {
+  font-size: 14px;
+  color: #b0b0b0;
+  display: block;
+  height: 28px;
+}
+
+.insurance .right .protect .pro1 .box p {
+  height: 25px;
+  width: 457px;
+  line-height: 25px;
+  display: block;
+}
+
+.insurance .right .protect .pro1 .box p i {
+  width: 14px;
+  height: 14px;
+  display: block;
+  border: 1px solid #e0e0e0;
+  float: left;
+  margin: 0;
+  padding: 0;
+  border-radius: 5px;
+  line-height: 14px;
+}
+
+.insurance .right .protect .pro1 .box p strong {
+  float: left;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.insurance .right .protect .pro1 .box p strong span {
+  color: #ff6700;
+}
+
+.insurance .right .protect .pro2 {
+  width: 598px;
+  height: 86px;
+  border: 1px solid #e0e0e0;
+  padding: 30px 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.insurance .right .protect .pro2 i {
+  font-size: 8px;
+  border: 1px solid #e0e0e0;
+  width: 14px;
+  height: 14px;
+  text-align: center;
+  line-height: 14px;
+  opacity: 1;
+  color: white;
+  border-radius: 50%;
+  background-color: #ff6700;
+  margin-left: 30px;
+}
+
+.insurance .right .protect .pro2 img {
+  width: 50px;
+  height: 50px;
+  margin: 0 15px 0 10px;
+}
+
+.insurance .right .protect .pro2 .box {
+  height: 86px;
+  width: 400px;
+}
+
+.insurance .right .protect .pro2 .box h3 {
+  display: block;
+  font-size: 18px;
+  width: 457px;
+  height: 28px;
+  line-height: 28px;
+  margin: 0 0 10px 0s;
+  font-weight: bold;
+}
+
+.insurance .right .protect .pro2 .box h3 span {
+  width: 50px;
+  height: 25px;
+  background-color: #fa6700;
+  border-radius: 20px;
+  font-size: 14px;
+  color: white;
+  padding: 2px 6px;
+}
+
+.insurance .right .protect .pro2 .box em {
+  font-size: 14px;
+  color: #b0b0b0;
+  display: block;
+  height: 28px;
+}
+
+.insurance .right .protect .pro2 .box p {
+  height: 25px;
+  width: 457px;
+  line-height: 25px;
+  display: block;
+}
+
+.insurance .right .protect .pro2 .box p i {
+  width: 14px;
+  height: 14px;
+  display: block;
+  border: 1px solid #e0e0e0;
+  float: left;
+  margin: 0;
+  padding: 0;
+  border-radius: 5px;
+  line-height: 14px;
+}
+
+.insurance .right .protect .pro2 .box p strong {
+  float: left;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.insurance .right .protect .pro2 .box p strong span {
+  color: #ff6700;
+}
+
+.insurance .right .youChoose {
+  width: 540px;
+  height: 86px;
+  padding: 30px;
+  background-color: #f9f9fa;
+  float: right;
 }
 
 .detail_of_price_wrap {
